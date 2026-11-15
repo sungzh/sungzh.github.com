@@ -1,4 +1,4 @@
-# Sun Guozheng — Personal Website
+# Guozheng — Personal Website
 
 An English-language personal homepage for research, engineering, and selected work.
 
@@ -33,5 +33,6 @@ Open `http://localhost:8000` to inspect the site.
 
 ## Updating content
 
-All public biography and project descriptions are in `index.html`. The page deliberately
-avoids non-public performance metrics and does not list unpublished manuscripts as publications.
+All public biography, interests, and project descriptions are in `index.html`.
+The page uses confirmed profile details, omits non-public performance metrics,
+and does not publish an email address.

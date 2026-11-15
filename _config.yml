@@ -6,11 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Sun Guozheng — Research, Engineering & Impact
-email: sdsxsgz@gmail.com
+title: Guozheng — Research, Engineering & Life
 description: > # this means to ignore newlines until "baseurl:"
-  Personal website of Sun Guozheng, an AI researcher and search algorithm
-  engineer working on search systems, platform ecosystems, and intelligent agents.
+  Personal website of Guozheng, a Search Algorithm Engineer and AI Researcher
+  at JD Retail currently pursuing a master's degree at Tsinghua University.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.sunguozheng.com"
 github_username: sungzh
